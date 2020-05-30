@@ -12,6 +12,8 @@ sphinx-rtd-theme = "*"
 
 [packages]
 setuptools = "*"
+flask = "*"
+pyrebase = "*"
 
 [requires]
 python_version = "3.8"
